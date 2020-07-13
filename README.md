@@ -1,1 +1,1 @@
-# google_clone
+# This is a basic clone of google, just CSS.
